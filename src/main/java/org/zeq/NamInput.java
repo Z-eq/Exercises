@@ -8,8 +8,8 @@ public class NamInput {
         {
             Scanner input = new Scanner (System.in);
             System.out.print("Input your first name: ");
-            String fname = input.next();
-            System.out.println("Hello \n"+fname+"!");
+            String name = input.next();
+            System.out.println("Hello "+name+"!");
         }
     }
 
