@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class Exercise8 {
 
-        // Kopierat från google denna var för svår!!
+        // Copied this from google since this was hard and just did small changes to it!!
+        // Source to code: https://www.geeksforgeeks.org/number-guessing-game-in-java/
         public static void guessingNumberGame()
         {
             // Scanner Class
@@ -15,7 +16,7 @@ public class Exercise8 {
                     * Math.random());
 
             // Given K trials
-            int K = 10;
+            int K = 501;
 
             int i, guess;
 
